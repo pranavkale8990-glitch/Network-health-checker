@@ -1,0 +1,9 @@
+# List your devices here - one IP address or hostname per line.
+# Lines starting with # are ignored.
+# These are just examples - replace with real devices on your network,
+# or keep the public ones below to test that the script works.
+
+8.8.8.8
+1.1.1.1
+google.com
+192.168.1.1
